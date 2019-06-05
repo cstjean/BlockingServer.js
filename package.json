@@ -1,0 +1,17 @@
+{
+  "name": "test-app",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.x.x"
+  },
+  "author": "R2.ca",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
